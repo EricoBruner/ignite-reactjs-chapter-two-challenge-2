@@ -15,14 +15,6 @@
       "price": "21.99",
       "available": true,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png"
-    },
-    {
-      "image": "",
-      "name": "Erico",
-      "price": "26264545",
-      "description": "Erico dajsdasjdo",
-      "available": true,
-      "id": 3
     }
   ]
 }
